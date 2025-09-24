@@ -1,0 +1,16 @@
+# backend
+smart-studio-backend/.venv/
+smart-studio-backend/__pycache__/
+smart-studio-backend/*.pyc
+smart-studio-backend/.env
+
+# frontend
+smart-studio/node_modules/
+smart-studio/build/
+smart-studio/.env
+
+# general
+.env
+.DS_Store
+.idea/
+.vscode/
